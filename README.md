@@ -1,0 +1,1 @@
+# Binary system composed only of 's'
